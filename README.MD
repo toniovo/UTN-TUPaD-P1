@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Buforn, Tomás José *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-10 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Nombre:** Buforn, Tomás José 
+- **Comisión:** M2025-10
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
